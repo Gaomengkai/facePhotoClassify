@@ -4,6 +4,8 @@ import sqlite3
 from PIL import Image,ImageTk,ImageDraw
 import tkinter as tktk
 
+import face_recognition as fr
+
 from img_show import showImageOnTk
 import strings
 
